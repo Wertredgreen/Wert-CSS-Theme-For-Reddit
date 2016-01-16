@@ -6,9 +6,12 @@ V 0.1.3 - Fix Submit Page/Subreddit Settings Page/Add Buttons
 V 0.2.0 - The RES Update (Still no NightMode)
 V 0.3.0 - The Big One (Also NightMode For Chrome)
 V 0.4.0 - The Bigger One (Also NightMode For Firefox)
-
+V 0.4.1 - (THUMBNAIL VERSION ADDED)
 --Current Version--
-V 0.4.0
+V 0.4.1
+
+--Thumbnails--
+If you want thumbnails, use the thumbnail version.
 
 --How to Install--
 1. Copy Contents from Theme.CSS into Stylesheet
